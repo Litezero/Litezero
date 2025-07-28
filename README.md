@@ -1,16 +1,31 @@
-## Hi there 👋
+# 你好，我是 Litezero 👋
 
-<!--
-**Litezero/Litezero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到我的 GitHub 主页！
 
-Here are some ideas to get you started:
+称呼？你可以叫我zero、莱特零[微软翻译这么叫我的]~~或者烧0~~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 关于我
+
+- 🧑‍💻 我是一名努力（也许）学习的大二软件工程学生
+- 🌱 正在学习和探索更多编程新技术
+- 💡 喜欢玩Minecraft捏🥰
+- 📫 你可以通过 GitHub 私信或者邮箱与我联系
+
+## 正在使用的编程语言
+
+E语言
+
+C/C++
+
+Go
+
+## 项目
+
+欢迎浏览和参与我的开源项目！你可以在我的仓库列表中找到我近期的作品。
+
+## 致谢
+
+感谢你访问我的主页，如果你喜欢我的项目，欢迎 Star 或 Fork！让我们一起成长、进步！
+
+---
+Litezero
