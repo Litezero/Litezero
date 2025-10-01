@@ -5,6 +5,7 @@
 称呼？你可以叫我zero、莱特零[微软翻译这么叫我的]~~或者烧0~~
 
 ## 联系方式
+
 [![-](https://img.shields.io/badge/Email:LiteZero261@outlook.com-005FF9?style=flat-square&logo=maildotru&logoColor=white)]()
 
 [![-](https://img.shields.io/badge/QQ:2166242466-1EBAFC?style=flat-square&logo=QQ&logoColor=white)]()
@@ -16,8 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Litezero&layout=compact&icon_color=0366d6&theme=white)]()
 
 ## 关于我
-
-- 🧑‍💻 我是一名努力（也许）学习的大二软件工程学生
+- 🧑‍💻 我是一名（也许）正在~~努力学习~~的大二软件工程学生
 - 🌱 正在学习和探索更多编程新技术
 - 💡 喜欢玩Minecraft捏🥰
 - 📫 你可以通过 GitHub 私信或者邮箱与我联系
