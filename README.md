@@ -9,6 +9,12 @@
 
 [![-](https://img.shields.io/badge/QQ:2166242466-1EBAFC?style=flat-square&logo=QQ&logoColor=white)]()
 
+## 状态分析
+
+[![stat](https://github-readme-stats.vercel.app/api?username=Litezero&show_icons=true&icon_color=0366d6&theme=white)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Litezero&layout=compact&icon_color=0366d6&theme=white)]()
+
 ## 关于我
 
 - 🧑‍💻 我是一名努力（也许）学习的大二软件工程学生
