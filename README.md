@@ -32,7 +32,7 @@
 
 [StudyCode](https://github.com/Litezero/Study_Code)是我的学习笔记记录仓库，你可以在这里看到我对于使用的编程语言学习的进度（比如最近几乎都在学习Html+css捏）。
 
-[ZephyrCraft-Panel-](https://github.com/ZCP2-Dev/ZephyrCraft-Panel-2)是一个使用多种语言进行开发的Minecraft BDS/Java服务器网页管理面板，该项目现在几乎处于停滞阶段，等待后续的开发。
+[ZephyrCraft-Panel-2](https://github.com/ZCP2-Dev/ZephyrCraft-Panel-2)是一个使用多种语言进行开发的Minecraft BDS/Java服务器网页管理面板，该项目现在几乎处于停滞阶段，等待后续的开发。
 
 [ZeroClear-Manager](https://github.com/Litezero/ZeroClear-Manager)是一个使用E语言进行开发的Minecraft BDS服务器面板，目前已存档，为ZephyrCraft Panel2的前身。
 
