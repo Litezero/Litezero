@@ -1,4 +1,4 @@
-# 你好，我是 Litezero 👋
+# 你好，我是 LiteZero 👋
 
 欢迎来到我的 GitHub 主页！
 
@@ -13,13 +13,13 @@
 
 ## 正在使用的编程语言
 
-Html/css
-
-C/C++
-
-Java
-
-Go
+[![-](https://img.shields.io/badge/html5-E66023?style=flat-square&logo=html5&logoColor=white)]()
+[![-](https://img.shields.io/badge/css-663399?style=flat-square&logo=css&logoColor=white)]()
+[![-](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
+[![-](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)]()
+[![-](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)]()
+[![-](https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=Java&logoColor=orange)]() 
+[![-](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white)]() 
 
 ## 项目
 
